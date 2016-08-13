@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  body: MyText
+  ans1: false
+  ans1: MyText
+  ans2: false
+  ans2: MyText
+  ans3: false
+  ans3: MyText
+  ans4: false
+  ans4: MyText
+  corrans: 1
+
+two:
+  body: MyText
+  ans1: false
+  ans1: MyText
+  ans2: false
+  ans2: MyText
+  ans3: false
+  ans3: MyText
+  ans4: false
+  ans4: MyText
+  corrans: 1
